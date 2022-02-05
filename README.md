@@ -1,6 +1,6 @@
 # Dictionary
 A Dictionary App created with react
-
+- [Live](https://wordhunting.netlify.app)
 
 # Getting Started with Create React App
 
